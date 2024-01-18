@@ -1,0 +1,22 @@
+.screen{
+ text-align: center;  
+ background-color: gray;
+ padding: 10px;
+ width: 50%; 
+ border-radius: 30px;
+}
+.bg-pink-500{
+    background-color: palevioletred;
+}
+.yellow{
+    background-color: yellow;
+}
+.background{
+    height: 100vh;
+}
+.bg-brown{
+   background-color: brown;
+}
+.bg-orange{
+   background-color: orange;
+}
